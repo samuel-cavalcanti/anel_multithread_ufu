@@ -88,3 +88,9 @@ thread: 1 message: FQFYOMEDOPZQZBDJRHFQKBPWQEERGUBUBCAUQKQAHQCKLRTKKGMSJEJMYYJSV
 thread: 2 message: FQFYOMEDOPZQZBDJRHFQKBPWQEERGUBUBCAUQKQAHQCKLRTKKGMSJEJMYYJSVGBTHTWYBQEBOHHAUOAT 
 thread: 3 message: FQFYOMEDOPZQZBDJRHFQKBPWQEERGUBUBCAUQKQAHQCKLRTKKGMSJEJMYYJSVGBTHTWYBQEBOHHAUOAT 
 ```
+
+# Explicações em vídeo
+
+[![Explicando o meu anel](http://img.youtube.com/vi/DQWoig4bJrw/0.jpg)](https://youtu.be/DQWoig4bJrw "Explicação em vídeo")
+
+não sei contar até 30, mil perdões :(
